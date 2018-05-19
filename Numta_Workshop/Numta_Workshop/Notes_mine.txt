@@ -1,0 +1,16 @@
+testing-a:
+	 clarity-okay, vary, not centered
+testing-b: 
+	clarity-okay,small data set, vary, kind of centered
+testing-c: 
+	clarity-okay,vary size
+testing-d:
+	 some red, clarity-okay,vary size,
+testing-e: 
+	b/W, centered, some not clear
+testing-f: 
+	different colors, poor dataset,vary fluctioations
+
+
+
+
